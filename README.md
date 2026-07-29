@@ -18,7 +18,6 @@ This repository contains my solutions to LeetCode problems. I use this repositor
 ## 💻 Languages Used
 
 * Java ☕
-* C++ ⚡
 * More languages in the future...
 
 ## 📂 Structure
